@@ -3,7 +3,7 @@
 [![GitHub Super-Linter](https://github.com/actions/javascript-action/actions/workflows/linter.yml/badge.svg)](https://github.com/super-linter/super-linter)
 ![CI](https://github.com/actions/javascript-action/actions/workflows/ci.yml/badge.svg)
 
-Use this template to bootstrap the creation of a JavaScript action. :rocket:
+
 
 This template includes compilation support, tests, a validation workflow,
 publishing, and versioning guidance.
